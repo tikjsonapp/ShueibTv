@@ -1,1 +1,7 @@
-
+{
+  "a1": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1767835414/ei/trJeaYCMLImhxN8P7v2Y8Qw/ip/37.238.186.210/id/7s_47oGoNmk.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/rqh/1/hls_chunk_host/rr5---sn-x5guiapo3uxax-vnhl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AYUSA3BwdHYrQTaCOIq2aQ_eocbPtYbRR2G3sJQmEIyrYeoQ0dnxefISR3FN6ki5B0ZoYVGmM3sgxAkh/spc/wH4Qq9mbJIhVTjUJ4JSu0CEhWWYRVyZI9MTFIuOG7SdzU65lRvDlVS5JZRS9KSDeL7Y/vprv/1/ns/hq5w8njGNgE6r6bRLe6DxooR/playlist_type/DVR/hcs/sd/initcwndbps/421250/met/1767813820,/mh/Im/mm/44/mn/sn-x5guiapo3uxax-vnhl/ms/lva/mv/m/mvi/5/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565116,51565681,51580968/n/pN5pOZyfVkI3vYQVafE/mt/1767813392/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,ns,playlist_type/sig/AJfQdSswRAIgepdGccVYHBwcRUwBlK4OmwtMRAI91D-bl9BwX_RDVVoCIASMo4cgkiD8wCWjtiabdhw3RW80rJ_KDhe3lSzHhVwt/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgTH-2bErTGrUBSOYkNZDhh4RlQaXdSTP1hZGXCdxWWc4CIQDWK7hKkzp0RW5fIBE8hdRk2B97sft6-jBsl3RP1kLm7w%3D%3D/playlist/index.m3u8",
+  "b2": {
+    "u": "Dalvik/2.1.0 (Linux; U; Android 12; Build/SQ1D.211205.016.A1)",
+    "r": "https://x.com/"
+  }
+}
